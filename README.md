@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Rajib Das</h1>
-<h3 align="center">A passionate frontend developer </h3>
+<h3 align="center">A passionate fullstack developer </h3>
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp"/>
 
 - 🔭 I’m currently working on [QuickPick](https://github.com/rajibdas51/quickpick)
 
-- 🌱 I’m currently learning **Nextjs,express**
+- 🌱 I’m currently learning **Nextjs,typescript,express**
 
 - 👨‍💻 All of my projects are available at [https://rajibdas.netlify.app/](https://rajibdas.netlify.app/)
 
