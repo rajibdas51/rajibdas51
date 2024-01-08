@@ -1,4 +1,3 @@
-[![MasterHead](https://i.ibb.co/Gt2JR9c/github-header-image-1.png)]
 
 <h1 align="center">Hi 👋, I'm Rajib Das</h1>
 <h3 align="center">A passionate frontend developer </h3>
