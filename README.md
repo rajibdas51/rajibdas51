@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Nextjs,typescript,express**
 
-- 👨‍💻 All of my projects are available at [https://rajibdas.netlify.app/](https://rajibdas.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rajibdas.vercel.app/](https://rajibdas.vercel.app/)
 
 - 💬 Ask me about **react, nextjs,mongodb**
 
-- 📫 How to reach me **prorajib6@gmail.com**
+- 📫 How to reach me **rajib9422@gmail.com**
 
 - 📄 Know about my experiences [resume.com](resume.com)
 
