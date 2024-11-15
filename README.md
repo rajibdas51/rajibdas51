@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [PropNest](https://github.com/rajibdas51/PropNest)
 
-- 🌱 I’m currently learning **Nextjs,typescript,express**
+- 🌱 I’m currently learning **typescript,express,Docker**
 
 - 👨‍💻 All of my projects are available at [https://rajibdas.vercel.app/](https://rajibdas.vercel.app/)
 
