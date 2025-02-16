@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **rajib9422@gmail.com**
 
-- 📄 Know about my experiences [resume.com](resume.com)
-
 - ⚡ Fun fact **🎵 Music lover, movie enthusiast, and doodler. Turning code into art and enjoying the creative journey. 🎨🎬🎸**
 
 <h3 align="left">Connect with me:</h3>
