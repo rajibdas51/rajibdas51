@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rajibdas.vercel.app/](https://rajibdas.vercel.app/)
 
-- 💬 Ask me about **react, nextjs,mongodb**
+- 💬 Ask me about **react, nextjs, node.js,mongodb**
 
 - 📫 How to reach me **rajib9422@gmail.com**
 
