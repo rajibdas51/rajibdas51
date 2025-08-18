@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rajib Chandra Das</h1>
-<h3 align="center">A passionate fullstack developer </h3>
+<h3 align="center">A passionate Software developer </h3>
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp"/>
 
 - 🔭 I’m currently working on [FoodieFlow](https://github.com/rajibdas51/FoodieFlow)
