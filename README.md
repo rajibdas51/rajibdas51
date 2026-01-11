@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Software developer </h3>
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp"/>
 
-- 🔭 I’m currently working on [FoodieFlow](https://github.com/rajibdas51/FoodieFlow)
+- 🔭 I’m currently working on [invoice-copilot](https://github.com/rajibdas51/invoice-copilot)
 
-- 🌱 I’m currently learning **typescript,express,Docker**
+- 🌱 I’m currently learning **LLM,AI agents,Langchanin,CI/CD,typescript,express,Docker**
 
 - 👨‍💻 All of my projects are available at [https://rajibdas.vercel.app/](https://rajibdas.vercel.app/)
 
